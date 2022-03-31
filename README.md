@@ -5,6 +5,8 @@ I code stuff and design stuff
 #### Showcases
 (Todo)
 
+
+
 #### 💬 Langauges & Frameworks
 - Java (For Android & Backend Servers)
 - Kotlin (For Android)
@@ -29,6 +31,7 @@ No longer coding for/using:
 - Bootstrap
 - Flutter / Dart
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=infernodragon0&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfernoDragon0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
