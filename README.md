@@ -29,7 +29,7 @@ No longer coding for/using:
 - Bootstrap
 - Flutter / Dart
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfernoDragon0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfernoDragon0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
