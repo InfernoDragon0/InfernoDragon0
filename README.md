@@ -18,7 +18,7 @@ I code stuff and design stuff
 - C++ & Blueprints (For Unreal Engine 4/5)
 - C (not much)
 
-Frameworks & Others:
+Frameworks & Services:
 - NodeJS / ExpressJS / NextJS / ReactJS
 - NuxtJS 3
 - React Native
@@ -30,6 +30,9 @@ Frameworks & Others:
 - MongoDB Realm + Atlas
 - Redis
 - Websockets & Sockets (TCP/UDP including packet read/write)
+- Google Cloud Platform + Firebase
+- Microsoft Azure Services
+- DigitalOcean
 
 
 No longer coding for/using:
@@ -42,18 +45,19 @@ No longer coding for/using:
 
 #### I Code with
 - Visual Studios (C++, C#)
-- Android Studio (Android)
+- Android Studio (Java/Kotlin for Android)
 - Xcode (Swift)
 - IntelliJ (Java)
 - VSCode (Everything else)
 - Codota / TabNine
 
-#### Other Software I play with
+#### Other Stuff I play with
 - Photoshop CC
 - After Effects CC
 - Blender 3D
 - Unreal Engine 5
 - VMWare virtual environments
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=infernodragon0&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfernoDragon0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
