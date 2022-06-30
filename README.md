@@ -4,6 +4,7 @@ I code stuff and design stuff
 
 #### Showcases
 RNG Game built on ElectronJS
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=rng.JS)](https://github.com/InfernoDragon0/rng.JS)
 
 
