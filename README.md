@@ -3,7 +3,8 @@
 I code stuff and design stuff
 
 #### Showcases
-(Todo)
+RNG Game built on ElectronJS
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=rng.JS)](https://github.com/InfernoDragon0/rng.JS)
 
 
 
@@ -61,7 +62,7 @@ No longer coding for/using:
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=infernodragon0&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfernoDragon0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfernoDragon0&layout=compact)](https://github.com/infernodragon0)
 
 
 <!--
