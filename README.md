@@ -4,6 +4,7 @@ I code stuff and design stuff
 
 #### Showcases
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=rng.JS)](https://github.com/InfernoDragon0/rng.JS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=CotLMods)](https://github.com/InfernoDragon0/CotLMods)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=StSVoidMod)](https://github.com/InfernoDragon0/StSVoidMod)
 
 
