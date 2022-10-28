@@ -2,6 +2,10 @@
 
 I code stuff and design stuff
 
+Simple Commisions Available now at ko-fi!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3EYLUS)
+
 #### Showcases
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=rng.JS)](https://github.com/InfernoDragon0/rng.JS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=CotLMods)](https://github.com/InfernoDragon0/CotLMods)
