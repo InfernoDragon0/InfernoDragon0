@@ -13,6 +13,7 @@ Discord: InfernoDragon1#1055
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=CotLMods)](https://github.com/InfernoDragon0/CotLMods)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=StSVoidMod)](https://github.com/InfernoDragon0/StSVoidMod)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=COTL_API)](https://github.com/xhayper/COTL_API)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=SpotTheDiffMS)](https://github.com/InfernoDragon0/SpotTheDiffMS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=CotlMiniModsWiki)](https://github.com/InfernoDragon0/CotlMiniModsWiki)
 
 
