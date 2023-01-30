@@ -2,7 +2,7 @@
 
 I code stuff and design stuff
 
-Simple Commisions Available now at ko-fi!
+Ko-fi here:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3EYLUS)
 
@@ -16,6 +16,8 @@ Discord: InfernoDragon1#1055
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=miniLoungeMS)](https://github.com/InfernoDragon0/miniLoungeMS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=CotlMiniModsWiki)](https://github.com/InfernoDragon0/CotlMiniModsWiki)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=puzzleHelperMS)](https://github.com/InfernoDragon0/puzzleHelperMS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zolice&repo=LilyGPT)](https://github.com/Zolice/LilyGPT)
+
 
 #### 💬 Langauges & Frameworks
 - Java (For Android & Backend Servers)
