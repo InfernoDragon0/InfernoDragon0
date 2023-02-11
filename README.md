@@ -23,10 +23,10 @@ Discord: InfernoDragon1#1055
 - Java (For Android & Backend Servers)
 - Kotlin (For Android)
 - Swift (For iOS)
-- Python (For Backend Servers & Web servers)
+- Python (For Backend Servers, Web servers & OpenCV)
 - Golang (For Backend Servers & Web Servers)
 - Javascript (For Frontend and Backend)
-- C# (For WPF, UWP Apps)
+- C# (For WPF, UWP Apps, Unity)
 - C++ & Blueprints (For Unreal Engine 4/5)
 - C (not much)
 
@@ -47,6 +47,8 @@ Frameworks & Services:
 - DigitalOcean
 - Telegraf.js (Telegram Chatbot)
 - Unity C# Modding (Harmony)
+- Discord.js
+- OpenAI API (JS)
 
 
 No longer coding for/using:
@@ -63,7 +65,7 @@ No longer coding for/using:
 - Xcode (Swift)
 - IntelliJ (Java)
 - VSCode (Everything else)
-- Codota / TabNine
+- Github Copilot
 
 #### Other Stuff I play with
 - Photoshop CC
@@ -71,6 +73,7 @@ No longer coding for/using:
 - Blender 3D
 - Unreal Engine 5
 - VMWare virtual environments
+- Affinity v2
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=infernodragon0&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
