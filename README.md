@@ -8,6 +8,11 @@ Ko-fi here:
 
 Discord: InfernoDragon1#1055
 
+#### Built with ChatGPT
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zolice&repo=LilyGPT)](https://github.com/Zolice/LilyGPT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InfernoDragon0&repo=LilyGPT-telegram)](https://github.com/InfernoDragon0/LilyGPT-telegram)
+
+
 #### Showcases
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=rng.JS)](https://github.com/InfernoDragon0/rng.JS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=CotLMods)](https://github.com/InfernoDragon0/CotLMods)
@@ -16,7 +21,6 @@ Discord: InfernoDragon1#1055
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=miniLoungeMS)](https://github.com/InfernoDragon0/miniLoungeMS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=CotlMiniModsWiki)](https://github.com/InfernoDragon0/CotlMiniModsWiki)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=puzzleHelperMS)](https://github.com/InfernoDragon0/puzzleHelperMS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zolice&repo=LilyGPT)](https://github.com/Zolice/LilyGPT)
 
 
 #### 💬 Langauges & Frameworks
@@ -48,7 +52,7 @@ Frameworks & Services:
 - Telegraf.js (Telegram Chatbot)
 - Unity C# Modding (Harmony)
 - Discord.js
-- OpenAI API (JS)
+- OpenAI API (Node)
 
 
 No longer coding for/using:
