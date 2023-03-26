@@ -8,7 +8,7 @@ Ko-fi here:
 
 Discord: InfernoDragon1#1055
 
-#### Powered by OpenAI
+#### Made using OpenAI API
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zolice&repo=LilyGPT)](https://github.com/Zolice/LilyGPT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InfernoDragon0&repo=LilyGPT-telegram)](https://github.com/InfernoDragon0/LilyGPT-telegram)
 
