@@ -8,6 +8,9 @@ Ko-fi here:
 
 Discord: InfernoDragon1#1055
 
+[CotL Mods Showcase Site](https://cotlmod.infernodragon.net/)
+
+
 #### Made using OpenAI API
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zolice&repo=LilyGPT)](https://github.com/Zolice/LilyGPT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InfernoDragon0&repo=LilyGPT-telegram)](https://github.com/InfernoDragon0/LilyGPT-telegram)
