@@ -6,7 +6,7 @@ Ko-fi here:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3EYLUS)
 
-Discord: InfernoDragon1#1055
+Discord: InfernoDragon1 (or InfernoDragon0)
 
 [CotL Mods Showcase Site](https://cotlmod.infernodragon.net/)
 
@@ -26,62 +26,41 @@ Discord: InfernoDragon1#1055
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=puzzleHelperMS)](https://github.com/InfernoDragon0/puzzleHelperMS)
 
 
-#### 💬 Langauges & Frameworks
-- Java (For Android & Backend Servers)
-- Kotlin (For Android)
-- Swift (For iOS)
-- Python (For Backend Servers, Web servers & OpenCV)
-- Golang (For Backend Servers & Web Servers)
-- Javascript (For Frontend and Backend)
-- C# (For WPF, UWP Apps, Unity)
-- C++ & Blueprints (For Unreal Engine 4/5)
-- C (not much)
+## 💬 Skills
+### Languages
+[![Languages](https://skillicons.dev/icons?i=java,kotlin,flutter,swift,python,go,javascript,ts,cpp,cs,c,html,css)](https://skillicons.dev)
 
-Frameworks & Services:
-- NodeJS / ExpressJS / NextJS / ReactJS
-- NuxtJS 3
-- React Native
-- Electron for Desktop
-- Lots of JS stuff
-- HTML & CSS & SCSS
-- MySQL & MariaDB
-- MongoDB NoSQL
-- MongoDB Realm + Atlas
-- Redis
+### Frameworks
+[![Languages](https://skillicons.dev/icons?i=nodejs,nextjs,nuxtjs,vue,react,electron,dotnet,discord,)](https://skillicons.dev)
+
+### Databases
+[![Languages](https://skillicons.dev/icons?i=mysql,mongodb,dynamodb,redis,)](https://skillicons.dev)
+
+### Cloud Platforms
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,netlify,vercel,firebase,sentry)](https://skillicons.dev)
+
+### I Use
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unreal,unity,blender,ps,ae,androidstudio)](https://skillicons.dev)
+
+### Other Stuff
+- VMWare virtual environments
+- Affinity v2
+- Github Copilot
+- IntelliJ (Java)
+- Xcode (Swift)
 - Websockets & Sockets (TCP/UDP including packet read/write)
-- Google Cloud Platform + Firebase
-- Microsoft Azure Services
 - DigitalOcean
 - Telegraf.js (Telegram Chatbot)
 - Unity C# Modding (Harmony)
-- Discord.js
 - OpenAI API (Node)
 
-
-No longer coding for/using:
+No longer using (unless?):
 - PHP (web)
 - ASP.Net (web)
 - Bootstrap
 - Flutter / Dart
 - Assembly
 - Bukkit Minecraft Plugins
-
-#### I Code with
-- Visual Studios (C++, C#)
-- Android Studio (Java/Kotlin for Android)
-- Xcode (Swift)
-- IntelliJ (Java)
-- VSCode (Everything else)
-- Github Copilot
-
-#### Other Stuff I play with
-- Photoshop CC
-- After Effects CC
-- Blender 3D
-- Unreal Engine 5
-- VMWare virtual environments
-- Affinity v2
-
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=infernodragon0&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfernoDragon0&layout=compact)](https://github.com/infernodragon0)
