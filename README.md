@@ -40,7 +40,7 @@ Discord: InfernoDragon1 (or InfernoDragon0)
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,netlify,vercel,firebase,sentry)](https://skillicons.dev)
 
 ### I Use
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unreal,unity,blender,ps,ae,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unreal,unity,blender,ps,ae,androidstudio,figma)](https://skillicons.dev)
 
 ### Other Stuff
 - VMWare virtual environments
