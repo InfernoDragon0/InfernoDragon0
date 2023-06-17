@@ -31,7 +31,7 @@ Discord: InfernoDragon1 (or InfernoDragon0)
 [![Languages](https://skillicons.dev/icons?i=java,kotlin,flutter,swift,python,go,javascript,ts,cpp,cs,c,html,css)](https://skillicons.dev)
 
 ### Frameworks
-[![Languages](https://skillicons.dev/icons?i=nodejs,nextjs,nuxtjs,vue,react,electron,dotnet,discord,)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=nodejs,nextjs,nuxtjs,vue,react,electron,dotnet,discord,tailwind)](https://skillicons.dev)
 
 ### Databases
 [![Languages](https://skillicons.dev/icons?i=mysql,mongodb,dynamodb,redis,)](https://skillicons.dev)
