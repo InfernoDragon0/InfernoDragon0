@@ -50,7 +50,7 @@ Discord: InfernoDragon1 (or InfernoDragon0)
 - Xcode (Swift)
 - Websockets & Sockets (TCP/UDP including packet read/write)
 - DigitalOcean
-- Telegraf.js (Telegram Chatbot)
+- Telegram Chatbot (Telegraf.js / grammYjs)
 - Unity C# Modding (Harmony)
 - OpenAI API (Node)
 
