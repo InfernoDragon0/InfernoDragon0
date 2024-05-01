@@ -16,6 +16,7 @@ Discord: InfernoDragon1 (or InfernoDragon0)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zolice&repo=LilyGPT)](https://github.com/Zolice/LilyGPT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InfernoDragon0&repo=LilyGPT-telegram)](https://github.com/InfernoDragon0/LilyGPT-telegram)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=InfinityRaceMS)](https://github.com/InfernoDragon0/InfinityRaceMS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=VDanceMS)](https://github.com/InfernoDragon0/VDanceMS)
 
 #### Showcases
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infernodragon0&repo=rng.JS)](https://github.com/InfernoDragon0/rng.JS)
